@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\casrpismadenetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\casrpismadenetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\dikd\u00F6rtgenprizma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\dikd\u00F6rtgenprizma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\dikd\u00F6rtgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\dikd\u00F6rtgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|c:\\users\\yunus emre\\desktop\\masa\u00FCst\u00FC\\odev2denemeleri\\odev2deneme3 - kopya (2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\silindir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\silindir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\yuzey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\yuzey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\nokta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\nokta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\kure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\kure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\geometriksekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\geometriksekil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\cember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\cember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\sekiller\\3boyuttanokta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:sekiller\\3boyuttanokta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79FD65CF-1030-46B8-818C-66B67C25A573}|odev2deneme3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:00:09.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dikd\u00F6rtgen.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Dikd\u00F6rtgen.cs",
+              "RelativeDocumentMoniker": "Sekiller\\Dikd\u00F6rtgen.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Dikd\u00F6rtgen.cs",
+              "RelativeToolTip": "Sekiller\\Dikd\u00F6rtgen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:13:45.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dikd\u00F6rtgenPrizma.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Dikd\u00F6rtgenPrizma.cs",
+              "RelativeDocumentMoniker": "Sekiller\\Dikd\u00F6rtgenPrizma.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Dikd\u00F6rtgenPrizma.cs",
+              "RelativeToolTip": "Sekiller\\Dikd\u00F6rtgenPrizma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:16:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CasrpismaDenetimi.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\CasrpismaDenetimi.cs",
+              "RelativeDocumentMoniker": "Sekiller\\CasrpismaDenetimi.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\CasrpismaDenetimi.cs",
+              "RelativeToolTip": "Sekiller\\CasrpismaDenetimi.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAmwAMBAAAfAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:18:27.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeometrikSekil.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\GeometrikSekil.cs",
+              "RelativeDocumentMoniker": "Sekiller\\GeometrikSekil.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\GeometrikSekil.cs",
+              "RelativeToolTip": "Sekiller\\GeometrikSekil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:17:45.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kure.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Kure.cs",
+              "RelativeDocumentMoniker": "Sekiller\\Kure.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Kure.cs",
+              "RelativeToolTip": "Sekiller\\Kure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:16:57.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nokta.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Nokta.cs",
+              "RelativeDocumentMoniker": "Sekiller\\Nokta.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Nokta.cs",
+              "RelativeToolTip": "Sekiller\\Nokta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:14:36.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Silindir.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Silindir.cs",
+              "RelativeDocumentMoniker": "Sekiller\\Silindir.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Silindir.cs",
+              "RelativeToolTip": "Sekiller\\Silindir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:16:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Yuzey.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Yuzey.cs",
+              "RelativeDocumentMoniker": "Sekiller\\Yuzey.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Yuzey.cs",
+              "RelativeToolTip": "Sekiller\\Yuzey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:17:19.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAKQDAAAAAAAAAAAgwNUBAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:19:19.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cember.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Cember.cs",
+              "RelativeDocumentMoniker": "Sekiller\\Cember.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\Cember.cs",
+              "RelativeToolTip": "Sekiller\\Cember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:15:47.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "3BoyuttaNokta.cs",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\3BoyuttaNokta.cs",
+              "RelativeDocumentMoniker": "Sekiller\\3BoyuttaNokta.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Sekiller\\3BoyuttaNokta.cs",
+              "RelativeToolTip": "Sekiller\\3BoyuttaNokta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:15:05.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Yunus Emre\\Desktop\\masa\u00FCst\u00FC\\Odev2Denemeleri\\odev2deneme3 - Kopya (2)\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:04:02.191Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

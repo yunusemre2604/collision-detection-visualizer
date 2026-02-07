@@ -1,0 +1,32 @@
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\bin\Debug\net8.0-windows\odev2deneme3.exe
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\bin\Debug\net8.0-windows\odev2deneme3.deps.json
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\bin\Debug\net8.0-windows\odev2deneme3.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\bin\Debug\net8.0-windows\odev2deneme3.dll
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\bin\Debug\net8.0-windows\odev2deneme3.pdb
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.Form1.resources
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.csproj.GenerateResource.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.dll
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\refint\odev2deneme3.dll
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.pdb
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\odev2deneme3.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3\obj\Debug\net8.0-windows\ref\odev2deneme3.dll
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\bin\Debug\net8.0-windows\odev2deneme3.exe
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\bin\Debug\net8.0-windows\odev2deneme3.deps.json
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\bin\Debug\net8.0-windows\odev2deneme3.runtimeconfig.json
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\bin\Debug\net8.0-windows\odev2deneme3.dll
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\bin\Debug\net8.0-windows\odev2deneme3.pdb
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.Form1.resources
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.csproj.GenerateResource.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.AssemblyInfo.cs
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.dll
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\refint\odev2deneme3.dll
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.pdb
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\odev2deneme3.genruntimeconfig.cache
+C:\Users\Yunus Emre\Desktop\masaüstü\Odev2Denemeleri\odev2deneme3 - Kopya (2)\obj\Debug\net8.0-windows\ref\odev2deneme3.dll
